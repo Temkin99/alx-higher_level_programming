@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-from __future__ import print_function
-import sys
 def magic_calculation(a, b):
     result = 0
     for i in range(1, 3):
