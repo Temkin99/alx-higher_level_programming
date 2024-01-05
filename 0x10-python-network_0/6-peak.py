@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""task 6 modele"""
+"""
+Find Peak task 6
+"""
 
 
 def find_peak(list_of_integers):
